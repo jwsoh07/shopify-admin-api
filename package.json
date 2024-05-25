@@ -1,0 +1,17 @@
+{
+  "name": "shopify-admin-api",
+  "version": "1.0.0",
+  "description": "A collection of common and easy to use Shopify api queries for data fetching",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kelvin soh",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^16.4.5"
+  },
+  "dependencies": {
+    "@shopify/admin-api-client": "^0.2.9"
+  }
+}
